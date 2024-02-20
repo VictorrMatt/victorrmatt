@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6331ee&section=header%22&text=Victor%20Mateus&fontSize=50&fontColor=0d1017">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B03FBF&section=header%22&text=Victor%20Mateus&fontSize=50&fontColor=0d1017">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6331ee&center=true&width=1000&lines=I+am+20+years+old;I'm+from+Brazil%2C+PE;I+study+web+development;Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=B03FBF&center=true&width=1000&lines=I+am+20+years+old;I'm+from+Brazil%2C+PE;I+study+web+development;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 <section>
   
 ## Statistics: ⬇️
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorrmatt&show_icons=true&count_private=true&hide_border=true&title_color=6331ee&icon_color=6331ee&text_color=ffff&bg_color=0d1117" alt="Victor Mateus github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrmatt&layout=compact&hide_border=true&title_color=6331ee&text_color=ffff&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorrmatt&show_icons=true&count_private=true&hide_border=true&title_color=B03FBF&icon_color=B03FBF&text_color=ffff&bg_color=0d1117" alt="Victor Mateus github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrmatt&layout=compact&hide_border=true&title_color=B03FBF&text_color=ffff&bg_color=0d1117" />
   </div>
 </section>
   
@@ -20,7 +20,6 @@
 <h3>Back-end:</h3>
     &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
     &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="vscode logo"  />
-    &nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   </div>
   <div>
   <h3>Front-end:</h3>
@@ -44,13 +43,13 @@
 
 <div align="center">
 <h3>Contact-me:</h3>
-<a href="mailto:victormateus897@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-6331ee?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/victor-mateus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6331ee?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://contate.me/victormateus" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-6331ee?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="mailto:victormateus897@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B03FBF?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/victor-mateus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B03FBF?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://contate.me/victormateus" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-B03FBF?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div>
 
 #
 
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6331ee&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B03FBF&height=120&section=footer"/>
