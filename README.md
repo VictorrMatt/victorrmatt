@@ -36,7 +36,6 @@
     &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
     &nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
     &nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows logo"/>
-    &nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
   </div>
 </section>
 
