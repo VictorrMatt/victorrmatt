@@ -45,7 +45,6 @@
 <h3>Contact-me:</h3>
 <a href="mailto:victormateus897@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B03FBF?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/victor-mateus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B03FBF?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://contate.me/victormateus" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-B03FBF?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div>
 
 #
