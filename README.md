@@ -47,10 +47,16 @@ Acredito no poder da tecnologia para transformar negócios e conectar pessoas �
 
 ## Projects 🚀
 
+<!--
 Here are some of my notable projects:
 
 - [Project 1](https://github.com/victorrmatt/project1) - A brief description of the project.
 - [Project 2](https://github.com/victorrmatt/project2) - A brief description of the project.
+-->
+
+Estou organizando e atualizando meus projetos públicos no GitHub. Em breve, esta seção será preenchida com soluções que desenvolvi em diferentes contextos — desde freelas até experiências profissionais e estudos pessoais.
+
+Enquanto isso, fique à vontade para explorar os repositórios já disponíveis no meu perfil.
 
 ## Contact Me 📫
 
