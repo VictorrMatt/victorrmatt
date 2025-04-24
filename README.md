@@ -2,7 +2,15 @@
 
 ## About Me 👋
 
-Hello! My name is Victor Mateus, and I'm a 21-year-old from Brazil, PE. I'm passionate about technology and currently focused on learning and improving my skills in development. My goal is to become a full-stack developer and contribute to innovative projects.
+Sou Victor Mateus, desenvolvedor front-end com 22 anos, atuando de forma remota a partir de Pernambuco, Brasil.
+
+Tenho como propósito criar experiências digitais eficientes, intuitivas e com foco em resultado. Valorizo a qualidade do código, a clareza na comunicação e o alinhamento com os objetivos do produto.
+
+Atualmente, estou em constante evolução como desenvolvedor, expandindo minha visão técnica e estratégica para atuar com mais autonomia e impacto em projetos web e mobile.
+
+Acredito no poder da tecnologia para transformar negócios e conectar pessoas — e é nesse caminho que sigo construindo minha jornada.
+
+📫 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/victor-mateus/) ou por [e-mail](mailto:victormateus897@gmail.com).
 
 ## Statistics 📊
 
